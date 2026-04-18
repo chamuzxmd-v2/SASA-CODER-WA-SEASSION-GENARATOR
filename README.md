@@ -1,6 +1,6 @@
 # 🥷 SASA CODER — WhatsApp Session Generator
 
-![SASA CODER Session Generator](https://i.ibb.co/zVmsnGVS/Screenshot-2026-04-17-022549.png)
+![SASA CODER Session Generator]([https://i.ibb.co/93kfqzmg/69842.jpg))
 
 A clean, open-source WhatsApp session generator built with [Baileys](https://github.com/WhiskeySockets/Baileys).  
 Clone it, edit one config file, and run your own pair-code / QR-code site for any WhatsApp bot.
@@ -20,7 +20,7 @@ Clone it, edit one config file, and run your own pair-code / QR-code site for an
 ## Quick Start
 
 ```bash
-git clone https://github.com/sil3nt-wolf/wolfXpair
+git clone https://github.com/chamuzxmd-v2/SASA-CODER-WA-SEASSION-GENARATOR.git
 cd wolfXpair
 npm install
 node server.js
@@ -42,9 +42,8 @@ export const CONFIG = {
   NAV_SUB:        'Session Generator',
 
   AUTHOR:         'Sasanka Chamuth',        // shown in post-link DM card
-  DEPLOY_HOST:    'host.xwolf.space',   // your bot hosting domain
-  PANEL_HOST:     'panel.xwolf.space',  // your panel domain
-  GITHUB_URL:     'https://github.com/sil3nt-wolf',
+  PANEL_HOST:     'https://sasa-coder-wa-seassion-genarator--Sasa-coder.replit.app',  // your panel domain
+  GITHUB_URL:     'https://github.com/chamuzxmd-v1',
 };
 ```
 
@@ -91,13 +90,13 @@ WOLF-TECH:~eyJub2lzZXlLZXlzIjp7...
 
 ## Live Demo
 
-> [wolfxpair.xwolf.space](https://wolfxpair.xwolf.space)
+> [sasa-coder-pair.com](https://sasa-coder-wa-seassion-genarator--Sasa-coder.replit.app)
 
 ---
 
 ## Credits
 
-Built by [Silent Wolf](https://github.com/sil3nt-wolf)  
+Built by [SASA CODER](https://github.com/chamuzxmd-v1)  
 Powered by [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys)
 ```
 SASA CODER - Built different.
